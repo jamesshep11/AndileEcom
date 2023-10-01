@@ -8,4 +8,4 @@ Install/Setup
 - go run .
 - follow the url provided to access the FE
 
-- the BE api endpoints follow the structure: base_url/api/v1/<endpoint>
+- the BE api endpoints follow the structure: base_url/api/v1/endpoint
