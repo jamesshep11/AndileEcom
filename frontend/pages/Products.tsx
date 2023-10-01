@@ -76,6 +76,7 @@ const Products = () => {
       </button>
       <table className="table">
         <thead>
+          <th></th>
           <th>Id</th>
           <th>Name</th>
           <th>Description</th>
